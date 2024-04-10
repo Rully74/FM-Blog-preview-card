@@ -36,7 +36,6 @@ section {
     padding: 20px;
     color: var(--Black);
     box-shadow: 6px 6px var(--Black);
-    cursor: pointer;
 }
 
 .blog-card img {
@@ -62,6 +61,11 @@ section {
 .blog-card h1 {
     font-weight: 800;
     margin: 16px 0 16px 0;
+    cursor: pointer;
+}
+
+.blog-card h1:hover{
+    color: var(--Yellow);
 }
 
 .blog-card .paragraph {

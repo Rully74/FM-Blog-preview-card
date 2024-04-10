@@ -11,7 +11,7 @@ Esta es una solución al [desafío de tarjeta de vista previa del blog en Fronte
 ### 🔗 Enlaces
 
 - URL de la solución: [GitHub](https://github.com/Rully74/FM-Blog-preview-card)
-- URL del sitio en vivo: [Sitio en vivo aquí](https://github.com/Rully74/FM-Blog-preview-card)
+- URL del sitio en vivo: [Sitio en vivo aquí](https://rully74.github.io/FM-Blog-preview-card/)
 
 ## 🔮 Mi proceso
 
